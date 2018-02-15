@@ -1,4 +1,4 @@
 # senstation
-Social Entre-preneurship Network
+Social Entrepreneurship Network
 
 Here you can find general information about the platform. 
